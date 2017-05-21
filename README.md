@@ -8,3 +8,5 @@ for practice only
 Timing a loop of 10 iterations of inputs
 2. **trying python plot.ipynb**:
 Trying matplotlib inline & a line to scan Arabic word
+3. **LIBRARIES.ipynb**:
+Checking available necessary python 3.5 libraries for a data science project
